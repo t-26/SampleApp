@@ -345,6 +345,7 @@
 					"$(SRCROOT)/../../DummyFramework/JuceLibraryCode",
 					"$(SRCROOT)/../../DummyFramework/JUCE-Module/modules",
 					"$(inherited)",
+					"$(SRCROOT)/../../DummyFramework/Source/**",
 				);
 				INFOPLIST_FILE = "Info-App.plist";
 				INFOPLIST_PREPROCESS = NO;
@@ -403,6 +404,7 @@
 					"$(SRCROOT)/../../DummyFramework/JuceLibraryCode",
 					"$(SRCROOT)/../../DummyFramework/JUCE-Module/modules",
 					"$(inherited)",
+					"$(SRCROOT)/../../DummyFramework/Source/**",
 				);
 				INFOPLIST_FILE = "Info-App.plist";
 				INFOPLIST_PREPROCESS = NO;
