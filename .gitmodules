@@ -1,0 +1,3 @@
+[submodule "DummyFramework"]
+	path = DummyFramework
+	url = git@github.com:t-26/DummyFramework.git
